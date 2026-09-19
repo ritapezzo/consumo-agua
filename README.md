@@ -1,7 +1,7 @@
 # Sistema criado com Python para calcular o consumo por metro cúbico de água💦
 
 
-## O usúario insere  o tipo de residência e o valor do consumo de água em metros cúbicos
+## O usuário insere  o tipo de residência e o valor do consumo de água em metros cúbicos
 ## O programa retorna uma mensagem de conscientização quanto ao consumo de água :
 
 
